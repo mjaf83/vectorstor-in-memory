@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+faiss_index-react/
 build/
 develop-eggs/
 dist/

@@ -11,6 +11,7 @@ langchain-ollama = "*"
 langchain-community = "*"
 langchainhub = "*"
 faiss-cpu = "*"
+pypdf = "*"
 
 [dev-packages]
 
